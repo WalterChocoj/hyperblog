@@ -1,5 +1,6 @@
 Este es un el curso de Git
 
-Voy en el curso 10
+Voy en el curso 11
+y vamos aprendiendo mas de Git
 
 Y vamos a aprender más sobre Git.
