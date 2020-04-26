@@ -1,6 +1,5 @@
 Este es un el curso de Git
 
-Voy en el curso 11
-y vamos aprendiendo mas de Git
+Voy en el curso 10
 
-Y vamos a aprender a hacer cosas a proyectos html y un post.
+Seguramente mañana vamos a ver cosas mucho más interesantes.
